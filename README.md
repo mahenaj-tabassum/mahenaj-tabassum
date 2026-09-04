@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mahenaj Tabassum Powshi</h1>
 <h3 align="center">Aspiring MERN Stack Developer from Bangladesh 🇧🇩</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mahenaj-tabassum&label=Profile%20Views&color=22c55e&style=flat" alt="Profile views" />
-</p>
 
 ---
 
@@ -61,6 +58,12 @@
 </p>
 
 ---
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=mahenaj-tabassum&label=Profile%20Views&color=22c55e&style=flat" alt="Profile views" />
+</p>
+
+
 ## 🌐 Connect with Me
 
 <p align="left">
