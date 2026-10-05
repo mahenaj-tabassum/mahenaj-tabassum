@@ -1,20 +1,38 @@
+<p align="center">
+  <img src="./github-banner.png" alt="Full Stack Web Engineer banner" width="100%" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Mahenaj Tabassum Powshi</h1>
 <h3 align="center">Aspiring MERN Stack Developer from Bangladesh 🇧🇩</h3>
-
 
 ---
 
 ## 🚀 About Me
 
+- 🎓 Enrolled in the **AI-Driven Full Stack Web Engineering** course by Programming Hero (7-month intensive program)
 - 🌱 Currently learning **TypeScript, Tailwind CSS, and Next.js**
-- 💻 Building my skills as a **MERN Stack Developer**
+- 🛠️ Building real projects with **Next.js (App Router) + Tailwind**
+- 🤖 Practicing **AI-assisted coding** to build and ship faster
 - 💬 Ask me about **React, Node.js, Express, MongoDB, and TypeScript**
-- 👨‍💻 Portfolio: **Coming Soon**
+- 🎨 I also enjoy **UI design** with Figma, Photoshop, and Illustrator
+- 👨‍💻 Portfolio: [**Visit Portfolio**](https://portfolio-web-0-1.netlify.app/)
 - 📄 Resume: **Coming Soon**
 - 📫 Reach me at **mahenaj.dev@gmail.com**
 
 ---
 
+## 📚 What I'm Learning
+
+| Area | Topics |
+| --- | --- |
+| Frontend | HTML5, CSS3, JavaScript, React, Next.js, Tailwind CSS |
+| Backend | Node.js, Express |
+| Database | MongoDB |
+| Security | Authentication |
+| Workflow | AI-assisted coding, Git and GitHub |
+| Language | TypeScript |
+
+---
 
 
 # 💻 Tech Stack
@@ -59,11 +77,6 @@
 
 ---
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=mahenaj-tabassum&label=Profile%20Views&color=22c55e&style=flat" alt="Profile views" />
-</p>
-
-
 ## 🌐 Connect with Me
 
 <p align="left">
@@ -72,4 +85,6 @@
   </a>
 </p>
 
----
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=mahenaj-tabassum&label=Profile%20Views&color=22c55e&style=flat" alt="Profile views" />
+</p>
