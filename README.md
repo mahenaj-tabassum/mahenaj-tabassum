@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Mahenaj Tabassum Powshi</h1>
 
-<h3 align="center">Junior Full-Stack Developer 🇧🇩</h3>
+<h3 align="center">MERN-Stack Developer 🇧🇩</h3>
 
 <p align="center">
   Building responsive web applications and reliable backend solutions.
